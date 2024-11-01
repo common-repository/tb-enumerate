@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tb-numeration\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-19 21:33+0300\n"
+"PO-Revision-Date: 2013-06-19 22:27+0100\n"
+"Last-Translator: Thierry <thierry@bazzanella.org>\n"
+"Language-Team: cmd-soft <thierry@bazzanella.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ua_UA\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Enumerate"
+msgstr "Enumérer"
+
+msgid "Number"
+msgstr "Nombre"
+
+msgid "Base"
+msgstr "Base"
+
+msgid "Enter a number in the list and then click the enumerate button"
+msgstr "Saisissez un nombre à énumérer et sa base puis cliquez sur le bouton \"Enumérer\""
+
+msgid "The following symbol in the left column is"
+msgstr "La retenu est"
+
+msgid "To numerate for"
+msgstr "On compte de"
+
+msgid "to"
+msgstr "à"
+
+msgid "to base"
+msgstr "en base"
+
+msgid "The rows (or columns) represent the position number of the component symbols. The first row number 0 is on the right"
+msgstr "Les rangs (ou colonnes) représentent les positions des symboles composant le nombre. Le premier rang de numéro 0 est à droite"
+
+msgid "We have"
+msgstr "Nous avons"
+
+msgid "available symbols in base"
+msgstr "symboles disponibles en base"
+
+msgid "available symbols"
+msgstr "symboles disponibles"
+
+msgid "in binary base"
+msgstr "en base binaire"
+
+msgid "in quinary base"
+msgstr "en base quinaire"
+
+msgid "in octal base"
+msgstr "en base octale"
+
+msgid "in hexadecimal base"
+msgstr "en base hexadécimale"
+
+msgid "in vigesimal base"
+msgstr "en base vigésimale"
+
+msgid "binary base"
+msgstr "base binaire"
+
+msgid "quinary base"
+msgstr "base quinaire"
+
+msgid "octal base"
+msgstr "base octale"
+
+msgid "hexadecimal base"
+msgstr "base hexadécimale"
+
+msgid "vigesimal base"
+msgstr "base vigésimale"
+
+msgid "or"
+msgstr "ou bien"
+
+msgid "The base"
+msgstr "La base"
+
+msgid "To the number"
+msgstr "Pour le nombre"
+
+msgid "was binary number"
+msgstr "on a en binaire le nombre"
+
+msgid "is used by our computers"
+msgstr "est utilisé par nos ordinateurs"
+
+msgid "We group the consecutive numbers in binary quartets (from the right)"
+msgstr "On groupe les chiffres consécutifs en quartets binaires (à partir de la droite)"
+
+msgid "We group the consecutive numbers in binary triplets (from the right)"
+msgstr "On groupe les chiffres consécutifs en triplets binaires (à partir de la droite)"
+
+msgid "We group the consecutive numbers in binary quartets (from the right) with 8 bits (8 positions)"
+msgstr "On groupe les chiffres consécutifs en quartets binaires (à partir de la droite) sur 8 bits (8 positions)"
+
+msgid "was used among the earliest civilizations and into the twentieth century by African peoples, but also partly in the Roman and Mayan ratings"
+msgstr "était utilisée parmi les premières civilisations, et jusqu'au XXe siècle par des peuples africains, mais aussi, partiellement, dans les notations romaine et maya"
+
+msgid "is mainly used in computers. She can count from 0 to 255 in 2 positions (00 to FF)"
+msgstr "est principalement utilisée en informatique. Elle permet de compter de 0 à 255 sur 2 positions (00 à FF)"
+
+msgid "Bhutan is Dzongkha language, and was in use among the Aztecs and for the Mayan count. Some think it was also used by the Gauls or the Basques in the early stages, but it is not actually count if their was a decimal character or vigesimal"
+msgstr "existe au Bhoutan en langue dzongkha, et était en usage chez les Aztèques et, quoiqu'irrégulier, pour la numération maya. Certains pensent qu'elle a aussi été utilisée par les Gaulois ou par les Basques dans les premiers temps, mais on ignore en réalité si leur numération avait un caractère décimal ou vigésimal"
+
